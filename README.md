@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://www.innocreate.com/wp-content/uploads/2017/07/jsonlogo-300x300.png" alt="Project logo"></a>
+ <img width=200px height=200px src="https://image.flaticon.com/icons/png/512/136/136443.png" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Web Data Studies</h3>
