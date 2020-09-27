@@ -29,7 +29,9 @@ The module followed two tasks namely the TMA (25% weighting) and FMA (75% weight
 
 **TMA**
 
-The TMA focused on the production of an XML document with a structure capable of holding the data for BBC recipes. In addition to the XML document, an XSD (XML Schema) file was produced which was capable of validating XML documents to comply with the established schema. The final section of the TMA followed the creation of an XSL (XML stylesheet) capable of producing HTML5 markup of the web data contained within the XML file. The XSL file was required to also utalise a CSS stylesheet to produce a refined end result. *My final submission attained a mark of 88/100 - feedback included in TMA folder.*
+The TMA focused on the production of an XML document with a structure capable of holding the data for BBC recipes. In addition to the XML document, an XSD (XML Schema) file was produced which was capable of validating XML documents to comply with the established schema. The final section of the TMA followed the creation of an XSL (XML stylesheet) capable of producing HTML5 markup of the web data contained within the XML file. The XSL file was required to also utalise a CSS stylesheet to produce a refined end result. 
+
+*My final submission attained a mark of 88/100 - feedback included in TMA folder.*
 
 **FMA**
 
